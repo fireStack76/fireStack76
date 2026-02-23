@@ -1,14 +1,14 @@
-Joyeta Mondal kotha, [2/23/2026 10:06 AM]
+
 <div align="center">
 
-![Header](./github-header.png)
+![Header](./github-header-banner.png)
 
 </div>
 
 # 💫 About Me:
 
-<h1 align="center">Hi 👋, I am Joyeta Mondal Kotha</h1>
-<h3 align="left">I am a B.Tech graduate from KIIT University (May 25, 2025) with a strong passion for full-stack web development and building impactful digital solutions. Since August 2025, I have been working as a Frontend Developer at Softvence Agency, BdCalling, where I contribute to developing scalable, user-friendly applications.
+<h1 align="center">Hi 👋, I am Alif Mia</h1>
+<h3 align="left">I am a Diploma graduate from Govt. Graphic Arts And Institute (May 25, 2025) with a strong passion for full-stack web development and building impactful digital solutions. Since Feb 2026, I have been working as a Frontend Developer at Softvence Agency, BdCalling, where I contribute to developing scalable, user-friendly applications.
 
 My technical expertise spans HTML, CSS, JavaScript, Tailwind CSS, React, Next.js, ShadCN, Node.js, Express.js, Redux Toolkit and MongoDB, along with experience in WordPress using tools like Elementor and WPBakery. I am also proficient in MySQL and have a solid foundation in C, C++.
 
@@ -17,11 +17,11 @@ I thrive on continuous learning, solving complex problems, and delivering clean,
 
 - 🌱 I’m currently learning Full Stack Web Development
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kotha-Mondal](https://github.com/Kotha-Mondal?tab=repositories)
+- 👨‍💻 All of my projects are available at https://alifmia.vercel.app/
 
 - 💬 Ask me about React, Next.js, TypeScript, Node.js, Express.js, JavaScript, Java, Tailwind
 
-- 📫 How to reach me kothamondal23@gmail.com
+- 📫 How to reach me alifhossinsajjad123456@gmail.com
 
 
 
@@ -45,7 +45,7 @@ I thrive on continuous learning, solving complex problems, and delivering clean,
 
 # 📊 GitHub Stats:
 
-Joyeta Mondal kotha, [2/23/2026 10:06 AM]
+
 <div style="display: flex; flex-direction: row;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kothamondal&theme=vision_friendly_dark" style="margin-right: 10px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kothamondal&theme=vision_friendly_dark&utcOffset=8">
